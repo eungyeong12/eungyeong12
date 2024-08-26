@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eungyeong12&show_icons=true&theme=tokyonight)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=tokyonight)
 
-# 💪Skills
+## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -19,7 +19,7 @@
 
 <hr/>
 
-# ✉️Contacts
+## ✉️Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:joeungyeong23@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:plmqaz2567@naver.com)
 
