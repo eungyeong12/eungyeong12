@@ -17,13 +17,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-#
+<br>
 
 ## ✉️Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:joeungyeong23@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:plmqaz2567@naver.com)
 
-#
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsruddmsgk)](https://solved.ac/dmsruddmsgk/)
 
