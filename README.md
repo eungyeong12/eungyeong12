@@ -4,11 +4,11 @@
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=tokyonight)
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/eungyeong12"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/eungyeong12?pet-id=645846960747838861"
+    width="600"
+    height="120"
+  />
 </a>
 
 ## 👩‍💻Skills
