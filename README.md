@@ -3,6 +3,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eungyeong12&show_icons=true&theme=tokyonight)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=tokyonight)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eungyeong12"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 👩‍💻Skills
 #### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openJDK&logoColor=white)
