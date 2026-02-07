@@ -1,17 +1,7 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=0:F8B195,100:F67280&fontSize=100&fontColor=ffffff&desc=I'm%20Eungyeong%20Jo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F67280&width=590&lines=%EB%8D%94+%EB%82%98%EC%9D%80+%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats-three-beige-71.vercel.app/api?username=eungyeong12&show_icons=true&theme=tokyonight)
-![TopLangs](https://github-readme-stats-three-beige-71.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=tokyonight)
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/eungyeong12"
-  width="600"
-  height="300"
-/>
-</a>
-
-## 👩‍💻Skills
+### 🛠️ Skills
 
 **Mobile** 
 
@@ -41,15 +31,20 @@
 
 <br>
 
-## ✉️Contacts
+### ✉️ Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:joeungyeong23@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:plmqaz2567@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=vimeo&logoColor=white)](https://velog.io/@eungyeong12)
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eungyeong)](https://solved.ac/eungyeong/)
+### ✨ Stats
 
+![Anurag's GitHub stats](https://github-readme-stats-three-beige-71.vercel.app/api?username=eungyeong12&show_icons=true&theme=rose_pine)
+![TopLangs](https://github-readme-stats-three-beige-71.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=rose_pine)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eungyeong)](https://solved.ac/eungyeong/)
 
 <!--
 **eungyeong12/eungyeong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
