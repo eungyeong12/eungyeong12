@@ -45,7 +45,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeungyeong23@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:plmqaz2567@naver.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@eungyeong12)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@eungyeong12)
 
 <br>
 
