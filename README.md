@@ -39,7 +39,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<br>
+</br>
 
 ### ✉️ Contacts
 
@@ -47,12 +47,21 @@
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:plmqaz2567@naver.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@eungyeong12)
 
-<br>
+</br>
 
 ### ✨ Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats-three-beige-71.vercel.app/api?username=eungyeong12&show_icons=true&theme=rose_pine)
 ![TopLangs](https://github-readme-stats-three-beige-71.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=rose_pine)
+
+### 🌱 My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[eungyeong12]/[eungyeong12]/-/raw/main/output/[eungyeong12]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[eungyeong12]/[eungyeong12]/-/raw/main/output/[eungyeong12]-contribution-graph.svg">
+    <img alt="[bomberman] contribution graph" src="https://gitlab.com/[eungyeong12]/[eungyeong12]/-/raw/main/output/[eungyeong12]-contribution-graph.svg">
+</picture>
 
 <!--
 **eungyeong12/eungyeong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
