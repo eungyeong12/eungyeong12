@@ -54,8 +54,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats-three-beige-71.vercel.app/api?username=eungyeong12&show_icons=true&theme=rose_pine)
 ![TopLangs](https://github-readme-stats-three-beige-71.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=rose_pine)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eungyeong)](https://solved.ac/eungyeong/)
-
 <!--
 **eungyeong12/eungyeong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
