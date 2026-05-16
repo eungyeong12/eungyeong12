@@ -19,7 +19,7 @@ jobs:
       - name: generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ eungyeong12 }}
+          github_user_name: ${{ github.repository_owner }}
           # Comma-separated list of games to generate.
           # Valid values: pacman, breakout, galaga, puzzle-bobble, bomberman
           # Default: pacman
