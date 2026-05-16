@@ -54,15 +54,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats-three-beige-71.vercel.app/api?username=eungyeong12&show_icons=true&theme=rose_pine)
 ![TopLangs](https://github-readme-stats-three-beige-71.vercel.app/api/top-langs/?username=eungyeong12&layout=compact&theme=rose_pine)
 
-### 🌱 My Contribution Graph
-
-<!-- [game-name] -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[eungyeong12]/[eungyeong12]/-/raw/main/output/[eungyeong12]-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[eungyeong12]/[eungyeong12]/-/raw/main/output/[eungyeong12]-contribution-graph.svg">
-    <img alt="[bomberman] contribution graph" src="https://gitlab.com/[eungyeong12]/[eungyeong12]/-/raw/main/output/[eungyeong12]-contribution-graph.svg">
-</picture>
-
 <!--
 **eungyeong12/eungyeong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
