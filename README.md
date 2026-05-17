@@ -40,8 +40,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-</br>
-
 ## 📚 Study
 
 - reading-books-for-pigs (책 스터디)
@@ -52,20 +50,14 @@
 
   [![GitHub](https://img.shields.io/badge/noble--notes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noble-notes)
 
-</br>
-
 ## ✏️ Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeong12)](https://velog.io/@eungyeong12)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeong12)](https://github.com/eungyeong12/velog-readme-stats)
 
-</br>
-
 ## ✉️ Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeungyeong23@gmail.com)
-
-</br>
 
 ### ✨ Stats
 
