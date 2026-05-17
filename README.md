@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=0:F8B195,100:F67280&fontSize=100&fontColor=ffffff&desc=I'm%20Eungyeong%20Jo)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F67280&width=590&lines=%EB%8D%94+%EB%82%98%EC%9D%80+%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F67280&width=910&height=65&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4+%EA%B2%BD%ED%97%98%EC%9D%84%2C+%EB%8F%99%EB%A3%8C%EC%97%90%EA%B2%8C%EB%8A%94+%EC%9D%BD%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%BD%94%EB%93%9C%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
 
 ### 🛠️ Skills
 
@@ -44,7 +45,6 @@
 ### ✉️ Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeungyeong23@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:plmqaz2567@naver.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@eungyeong12)
 
 </br>
