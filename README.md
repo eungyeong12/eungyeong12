@@ -54,10 +54,16 @@
 
 </br>
 
+## ✏️ Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeong12)](https://velog.io/@eungyeong12)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeong12)](https://github.com/eungyeong12/velog-readme-stats)
+
+</br>
+
 ## ✉️ Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeungyeong23@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@eungyeong12)
 
 </br>
 
