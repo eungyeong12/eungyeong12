@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F67280&width=910&height=65&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%97%90%EA%B2%8C%EB%8A%94+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4+%EA%B2%BD%ED%97%98%EC%9D%84%2C+%EB%8F%99%EB%A3%8C%EC%97%90%EA%B2%8C%EB%8A%94+%EC%9D%BD%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%BD%94%EB%93%9C%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 **Mobile** 
 
@@ -42,7 +42,19 @@
 
 </br>
 
-### ✉️ Contacts
+## 📚 Study
+
+- reading-books-for-pigs (책 스터디)
+
+  [![GitHub](https://img.shields.io/badge/reading--books--for--pigs-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aksworns22/reading-books-for-pigs)
+
+- 귀족인데 글 씁니다 (글쓰기 스터디)
+
+  [![GitHub](https://img.shields.io/badge/noble--notes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noble-notes)
+
+</br>
+
+## ✉️ Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeungyeong23@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@eungyeong12)
