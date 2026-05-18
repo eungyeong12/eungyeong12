@@ -53,7 +53,7 @@
 ## ✏️ Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeong12)](https://velog.io/@eungyeong12)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeong12)](https://velog.io/@eungyeong12/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeong12)](https://github.com/eungyeong12/velog-readme-stats)
 
 ## ✉️ Contacts
 
