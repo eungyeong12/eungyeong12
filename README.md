@@ -51,9 +51,9 @@
   [![GitHub](https://img.shields.io/badge/noble--notes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/noble-notes)
 
 ## ✏️ Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeong12)](https://velog.io/@eungyeong12)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeong)](https://velog.io/@eungyeong12)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeong12)](https://github.com/eungyeong12/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeong12)](https://velog.io/@eungyeong12)
 
 ## ✉️ Contacts
 
